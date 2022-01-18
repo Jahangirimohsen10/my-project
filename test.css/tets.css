@@ -6,7 +6,12 @@ h2{
 body{
     background-color: royalblue;
 }
+<<<<<<< HEAD
 
 p{
     padding: 56px;
+=======
+p{
+    border: salmon;
+>>>>>>> mohsen
 }
